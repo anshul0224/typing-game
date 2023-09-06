@@ -1,0 +1,26 @@
+.words {
+  text-align: justify;
+}
+
+.seconds{
+  color: #5F78B4;
+}
+
+.nums{
+  background-color: #5F78B4;
+}
+
+.success{
+  background-color: greenyellow;
+}
+
+.failure{
+  background-color: red;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
